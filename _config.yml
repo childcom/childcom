@@ -73,7 +73,6 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
-
 - jekyll-feed
 
 # Exclude these files from your production _site
@@ -83,3 +82,4 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+    
