@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Pil-Jong Kim is Ph.D. Candidate in Bikelab.
+Pil-Jong Kim is D.D.S. and Ph.D. Candidate in Bikelab.
 I'm studing bioinformatics and statistics.
-My major language for this is R.
 
 ### Contact me
 
